@@ -1,0 +1,60 @@
+body {
+background-color: lightgrey;
+}
+
+.pics {
+background-width: 50%;
+height: 400px;
+width: 50%;
+margin-top: 25px;
+}
+
+
+.pic {
+width: 50%;
+align-content: center;
+border: 10px solid white;
+}
+
+.hands {
+height: 500px;
+}
+
+.box {
+margin-top: 25px;
+margin-right: 25px;
+padding-left: 70px;
+background-color: white;
+}
+
+.navpic {
+width: 100px;
+height: 100px;
+margin-left: 30px;
+}
+
+ul {
+display: flex;
+}
+
+li {
+display: flex;
+color: white;
+margin: 20px;
+font-size: 25px;
+}
+
+.label {
+background-color: white;
+margin-bottom: 0px;
+width: 50%;
+padding-left: 10px;
+padding-top: 15px;
+text-align: left;
+font-weight: bold;
+}
+
+.form-search {
+display: flex;
+justify-content: flex-end;
+}
